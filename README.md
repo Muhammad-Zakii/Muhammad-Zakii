@@ -14,7 +14,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as an associate software engineer at Al Salaam Tech House
+- 🔭 I’m currently doing my master's degree in Computer Science from the Julius Maximilian University of Würzburg
   
 - 👯 I’m looking to collaborate on any project
   
