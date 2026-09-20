@@ -1,96 +1,188 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhammad Zaki</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:1E1B4B,100:6366F1&text=Muhammad%20Zaki&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20Generative%20AI&descSize=17&descAlignY=62&animation=fadeIn" alt="Muhammad Zaki"/>
+<h3 align="center">AI/ML Engineer | Generative AI · RAG · LLM Agents</h3>
 
-M.Sc. Computer Science @ JMU Würzburg · Germany
+<p align="center">
+  M.Sc. Computer Science @ Julius-Maximilians-Universität Würzburg, Germany
+</p>
 
-Building intelligent systems through research and engineering.
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zaki-14100a221/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/muhammad-zakii">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/muhammad-zaki-14100a221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111827&labelColor=FFFFFF" alt="LinkedIn"/></a>
- 
-<a href="https://github.com/Muhammad-Zakii?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="Repositories"/></a>
+## 👨‍💻 About Me
 
-</div>
+I'm a Computer Science master's student at **Julius-Maximilians-Universität Würzburg (JMU), Germany**, with experience in machine learning research, deep learning, and LLM-powered applications.
 
-<div align="center">
+My work spans stochastic modeling, time-series forecasting, and agentic AI workflows. I'm particularly interested in building reliable, scalable AI systems and exploring how Generative AI can solve real-world problems.
 
-✦ Featured Project
+* 🔭 AI Engineer Intern at Reflyne, developing LLM-powered workflows.
+* 🧠 Interested in Generative AI, RAG, LLM agents, and trustworthy AI.
+* 🔬 Experienced in ML research, surrogate modeling, and deep learning.
+* 🎓 Pursuing an M.Sc. in Computer Science at JMU Würzburg.
+* 🤝 Open to collaborating on AI/ML, GenAI, and research-oriented projects.
 
-ee-traceability-agent
+---
 
-A local AI agent for engineering traceability
+## 🛠️ Tech Stack
 
-Automates cross-referencing hundreds of hardware requirements against supplier PDF manuals for the On-Board Network Systems & Functions team.
+### AI, Machine Learning & Data Science
 
-<a href="https://github.com/Muhammad-Zakii/ee-traceability-agent"><img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View project"/></a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
 
-</div>
+### Generative AI & LLM Engineering
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-Agentic%20Workflows-2D8C7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLM%20Optimization-555555?style=flat-square" />
+</p>
 
-✦ Experience
+### Programming & Development
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-AI Engineer Intern
-Reflyne · 2026—Now
+## 💼 Experience
 
-<sub>LLM agents · LangGraph · RAG</sub>
+### AI Engineer Intern — Workflow Development
 
-</td>
-<td width="50%" valign="top">
+**Reflyne · Frankfurt, Germany (Remote, Part-time)**
+`April 2026 – Present`
 
-Machine Learning Research
-JMU Würzburg · 2025—2026
+* Build AI agents using LangGraph and LLM APIs for automated information retrieval, structured data querying, and workflow automation.
+* Evaluate output quality through iterative testing and prompt engineering to improve automated summarization and response generation.
 
-<sub>Deep learning · Surrogate models · Forecasting</sub>
+**Tech:** Python · LangGraph · LLM APIs · RAG · REST APIs
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### Machine Learning Research Intern
 
-Full Stack Developer · Al Salaam Tech · 2023—2025
-<sub>React · Node.js · MongoDB · AWS</sub>
+**Julius-Maximilians-Universität Würzburg · Germany**
+`April 2025 – March 2026`
 
-</td>
-</tr>
-</table>
+Worked on machine learning research projects involving uncertainty propagation and time-series forecasting.
 
-<div align="center">
+**State Vector Uncertainty Propagation | Oct 2025 – Mar 2026**
 
-✦ Tech I Work With
+* Built stochastic ML pipelines in PyTorch to replace computationally expensive Monte Carlo simulations with scalable surrogate models.
+* Processed approximately 4,400 samples and trained a 2.3M-parameter neural network using dropout and layer normalization.
+* Evaluated model performance across diverse trajectory types and out-of-distribution cases to investigate prediction reliability.
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,js,react,nextjs,nodejs,aws,git&perline=11" alt="Technology stack"/>
+**Time Series Forecasting | Apr 2025 – Sep 2025**
 
-<br/><br/>
+* Developed a multitemporal forecasting pipeline using PyTorch and PyTorch Geometric.
+* Executed large-scale model training and data processing on the Julia HPC cluster.
+* Evaluated predictions using RMSE, MAE, and RPSS, generating 130+ visualizations for spatial forecast analysis.
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-312E81?style=flat-square&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+**Tech:** Python · PyTorch · PyTorch Geometric · Pandas · NumPy · Scikit-learn · Julia HPC
 
-</div>
+### Full Stack Developer
 
-<div align="center">
+**Al Salaam Tech · Gujranwala, Pakistan (Hybrid)**
+`April 2023 – February 2025`
 
-<a href="https://github-readme-stats.vercel.app/api?username=Muhammad-Zakii&show_icons=true&hide_border=true&bg_color=00000000&title_color=A5B4FC&icon_color=818CF8&text_color=C4C7D1">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zakii&show_icons=true&hide_border=true&bg_color=00000000&title_color=A5B4FC&icon_color=818CF8&text_color=C4C7D1" alt="GitHub stats"/>
-</a>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zakii&layout=compact&hide_border=true&bg_color=00000000&title_color=A5B4FC&text_color=C4C7D1" alt="Top languages"/>
+* Built scalable backend features using React and Node.js, with SQL and MongoDB for efficient data storage and retrieval.
+* Improved software reliability through CI/CD pipelines using GitHub Actions and Jenkins.
+* Supported AWS deployments and contributed to development and DevOps workflows.
 
-<br/><br/>
+**Tech:** React · Next.js · Node.js · MongoDB · AWS · GitHub Actions · Jenkins
 
-<sub>Curious by nature. Research-driven. Building AI that works.</sub>
+---
 
-<br/><br/>
+## 🚀 Featured Research & Projects
 
-<a href="https://www.linkedin.com/in/muhammad-zaki-14100a221/">LinkedIn</a>  · 
-<a href="https://github.com/Muhammad-Zakii">GitHub</a>
+### 🌦️ AI-Based Time Series Forecasting
 
-</div>
+Deep learning-based weather forecasting using ERA5 climate data and PyTorch Geometric.
+
+* Developed multitemporal forecasting pipelines.
+* Evaluated predictive performance using RMSE, MAE, and RPSS.
+* Conducted large-scale experiments on an HPC cluster.
+
+### 🛰️ Neural Surrogate Models for Uncertainty Propagation
+
+Machine learning research focused on approximating computationally expensive Monte Carlo simulations for Earth–Moon trajectory uncertainty propagation.
+
+* Processed approximately 4,400 samples for model training and evaluation.
+* Developed a deep neural network with approximately 2.3M parameters.
+* Investigated predictive reliability across different trajectory types and out-of-distribution cases.
+
+<p align="center">
+  <a href="https://github.com/muhammad-zakii?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+**M.Sc. Computer Science**
+Julius-Maximilians-Universität Würzburg, Germany
+`April 2024 – Present`
+
+**B.Sc. Computer Science**
+Gift University, Gujranwala, Pakistan
+`October 2018 – October 2022`
+
+**Certifications**
+
+* AI Engineer for Data Scientists Associate — DataCamp
+* AI Engineer for Developers Associate — DataCamp
+* Elements of Artificial Intelligence — University of Helsinki
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-zakii&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-zakii&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammad-zakii&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Interested in AI/ML, Generative AI, LLM engineering, or research collaborations? Feel free to connect!
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-zaki-14100a221/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zaki-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/muhammad-zakii">
+    <img src="https://img.shields.io/badge/GitHub-muhammad--zakii-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems through research, experimentation, and engineering.</i>
+</p>
